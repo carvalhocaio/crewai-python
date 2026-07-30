@@ -12,3 +12,4 @@ wheels/
 # Others
 .env
 .ruff_cache/
+.idea/
