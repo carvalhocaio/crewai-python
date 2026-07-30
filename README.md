@@ -5,17 +5,17 @@ Este repositório contém a implementação prática do tutorial **"CrewAI in Py
 ---
 
 ## Índice
-- [Visão Geral](#-visão-geral)
-- [Estrutura do Projeto](#-estrutura-do-projeto)
-- [Pré-requisitos](#-pré-requisitos)
-- [Instalação e Configuração](#-instalação-e-configuração)
-- [Como Executar os Exemplos](#-como-executar-os-exemplos)
+- [Visão Geral](#visão-geral)
+- [Estrutura do Projeto](#estrutura-do-projeto)
+- [Pré-requisitos](#pré-requisitos)
+- [Instalação e Configuração](#instalação-e-configuração)
+- [Como Executar os Exemplos](#como-executar-os-exemplos)
   - [1. Agente Único (`single_agent.py`)](src/single_agent.py)
   - [2. Equipe de Pesquisa e Escrita (`research_and_writer_crew.py`)](src/research_and_writer_crew.py)
   - [3. Controle Explícito de Contexto (`explicit_context.py`)](src/explicit_context.py)
   - [4. Agente com Ferramentas de Scraping (`agent_with_tool.py`)](src/agent_with_tool.py)
-- [Desenvolvimento e Qualidade do Código](#-desenvolvimento-e-qualidade-do-código)
-- [Conceitos Importantes do CrewAI](#-conceitos-importantes-do-crewai)
+- [Desenvolvimento e Qualidade do Código](#desenvolvimento-e-qualidade-do-código)
+- [Conceitos Importantes do CrewAI](#conceitos-importantes-do-crewai)
 
 ---
 
